@@ -3,11 +3,20 @@
 
 #### 🎍 Welcome to My_Base 👨‍💻
 
-- Experienced Android Developer with Java and Kotlin.
-- Learning Swift 5 and Flutter 📱.
-- Currently working as Software Developer 👨‍💻 at **[Rexaware](http://www.rexaware.com/index.aspx)**
+- 👨‍💻 Experienced Android Developer with Java and Kotlin.
+- 🛠 Learning Swift 5 and Flutter .
+- 📱 Currently working as Software Developer at **[Rexaware](http://www.rexaware.com/index.aspx)**
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ankushyerawar&show_icons=true&theme=nord)
+<details>
+  <summary>☀️ Some other facts about Me</summary>
+  <br>
+  
+  - 🎶 While coding I like to listen to soothing music.
+  - ⭐️ Travelling and Expolring new places. 
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=ankushyerawar&show_icons=true&theme=nord)
+  <br><br>
+</details>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything. </i>
