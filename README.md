@@ -10,7 +10,7 @@
 - :writing_hand: Experienced Android Developer with Java and Kotlin.
 - 🛠 Learning Swift 5 and Flutter and Asp.net for backend.
 - &nbsp;📱&nbsp;&nbsp;Currently working on my Protfolio.
-- 👨‍💻&nbsp;Software Developer at **[Capgemini](https://www.capgemini.com/in-en/)**
+- 👨‍💻&nbsp;Software Developer at **[Globant](https://www.globant.com/)**
 
 <details>
   <summary>☀️ Some other facts about Me</summary>
