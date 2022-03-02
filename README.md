@@ -9,7 +9,7 @@
 
 - :writing_hand: Experienced Android Developer with Java and Kotlin.
 - 🛠 Learning Swift 5 and Flutter and Asp.net for backend.
-- 📱&nbsp;&nbsp;Currently working on my Protfolio.
+- 📱&nbsp;Currently working on my Protfolio.
 - 👨‍💻&nbsp;Software Engineer at **[Globant](https://www.globant.com/)**
 
 <details>
