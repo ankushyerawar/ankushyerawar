@@ -8,7 +8,7 @@
 #### :palm_tree::evergreen_tree::palm_tree: Welcome to My_Base :palm_tree::evergreen_tree::palm_tree:
 
 - :writing_hand: Experienced Android Developer with Java and Kotlin.
-- 🛠 Learning Swift 5 and Flutter and Asp.net for backend.
+- 🛠 Learning Jetpack Compose & Python.
 - 📱&nbsp;Currently working on my Protfolio.
 - 👨‍💻&nbsp;Software Engineer at **[Globant](https://www.globant.com/)**
 
