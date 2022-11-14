@@ -9,7 +9,7 @@
 
 - :writing_hand: Experienced Android Developer with Java and Kotlin.
 - 🛠 Learning Jetpack Compose & Python.
-- 📱&nbsp;Currently working on my Protfolio.
+- 📱&nbsp;Currently working on my Portfolio.
 - 👨‍💻&nbsp;Software Engineer at **[Globant](https://www.globant.com/)**
 
 <details>
